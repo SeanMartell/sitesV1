@@ -9,7 +9,7 @@
 
 /* Display the images by default */
 .mySlides {
-    display: slide 1/3;
+    display: slide, ;
 }
 
 /* Next & previous buttons */
